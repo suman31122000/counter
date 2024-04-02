@@ -14,8 +14,8 @@ function App() {
     <div className='container'>
     <p>counter-value {count}</p>
     <div>
-    <button className='button' onClick={increase}>increase{count}</button>
-    <button className='button' onClick={decrease}>decrease{count}</button>
+    <button className='button' onClick={increase}>increase</button>
+    <button className='button' onClick={decrease}>decrease</button>
     </div>
     </div>
   )
